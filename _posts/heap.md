@@ -1,5 +1,10 @@
 # Навалом
 
+# Внешний вид
+
+http://www.reddit.com/r/seduction/comments/332kvf/for_those_ugly_motherfuckers_such_as_myself/
+
+
 # Ведение
 
 Ты должен вести
