@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: Кто тут
 permalink: /about/
 ---
 
-Some information about you!
+Аморальный ниндзя — это проект по соблазнению
 
-### More Information
+### Личный коучинг?
 
-A place to include any other types of information that you'd like to include about yourself.
+Да, есть. Один месяц — две тысячи евро.
 
-### Contact me
+### Связь
 
-[email@domain.com](mailto:email@domain.com)
+[schaman@yandex.ru](mailto:schaman@yandex.ru)
