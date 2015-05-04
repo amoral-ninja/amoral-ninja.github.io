@@ -15,6 +15,18 @@ avatar: /images/amoral.ninja.jpg
 # Flags below are optional
 #
 
+navigation:
+- text: Блог
+  url: /
+- text: Задать вопрос
+  url: /ask/
+  layout: answer
+- text: Продукты
+  url: /products/
+  layout: project
+- text: Кто тут
+  url: /about/
+
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:

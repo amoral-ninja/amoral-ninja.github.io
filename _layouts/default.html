@@ -27,9 +27,16 @@
           </div>
 
           <nav>
-            <a href="{{ site.baseurl }}/">Блог</a>
-            <a href="{{ site.baseurl }}/ask">Задать вопрос</a>
-            <a href="{{ site.baseurl }}/about">Кто тут</a>
+            {% for link in site.navigation %}
+              {% assign active = nil %}
+              {% if page.url == link.url or page.layout == link.layout %}
+                {% assign active = 'active' %}
+              {% endif %}
+
+              <a class="{{ active }}" href="{{ link.url }}">
+                {{ link.text }}
+              </a>
+            {% endfor %}
           </nav>
         </header>
       </div>
