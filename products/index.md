@@ -12,11 +12,11 @@ permalink: /products/
 
 ----
 
-## [Умею женщин](/products/uzh/)
+## [Умею женщин](http://prolubov.prorealnost.com/offer/trening-umeiu-zhenschin?src=videokurs)
 
 Онлайн-тренинг по знакомствам и соблазнению
 
-[Подробности тут](/products/uzh/)
+[Подробности тут](http://prolubov.prorealnost.com/offer/trening-umeiu-zhenschin?src=videokurs)
 
 ----
 
