@@ -12,11 +12,11 @@ permalink: /products/
 
 ----
 
-## [Умею женщин](http://prolubov.prorealnost.com/offer/trening-umeiu-zhenschin)
+## [Умею женщин](http://yaica.prorealnost.com/offer/trening-umeiu-zhenschin?src=amorninja-products)
 
 Онлайн-тренинг по знакомствам и соблазнению
 
-[Подробности тут](http://prolubov.prorealnost.com/offer/trening-umeiu-zhenschin)
+[Подробности тут](http://yaica.prorealnost.com/offer/trening-umeiu-zhenschin?src=amorninja-products)
 
 ----
 
