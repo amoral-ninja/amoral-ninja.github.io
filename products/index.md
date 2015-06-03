@@ -10,6 +10,14 @@ permalink: /products/
 
 [Подробности тут](/products/be-successful/)
 
+---
+
+## [Знакомства в Интернете](http://yaica.prorealnost.com/offer/videokurs-kak-poznakomitsya-s-devushkoi-v-internete-regprise)
+
+Видеокурс
+
+[Подробности тут](http://yaica.prorealnost.com/offer/videokurs-kak-poznakomitsya-s-devushkoi-v-internete-regprise)
+
 ----
 
 ## [Умею женщин](http://yaica.prorealnost.com/offer/trening-umeiu-zhenschin?src=amorninja-products)
@@ -27,3 +35,5 @@ permalink: /products/
 200 страниц
 
 [Подробности тут](/products/lsbd/)
+
+
