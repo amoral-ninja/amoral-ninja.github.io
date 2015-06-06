@@ -84,3 +84,6 @@ exclude:
     - Gemfile.lock
     - LICENSE
     - README.md
+
+# Какой проект yo содержит шоты для этого фронтенда
+yo: yaica
