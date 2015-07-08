@@ -8,8 +8,11 @@ name: Аморальный Ниндзя
 # Short bio or description (displayed in the header)
 description: Как соблазнить женщину для отношений и просто так
 
+# Slogan (displayed in the footer)
+slogan: Как соблазнить женщину для отношений и просто так
+
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/amoral.ninja.jpg
+avatar: http://amoral.ninja/images/amoral.ninja.jpg
 
 #
 # Flags below are optional

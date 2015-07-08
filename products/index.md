@@ -25,15 +25,3 @@ permalink: /products/
 Онлайн-тренинг по знакомствам и соблазнению
 
 [Подробности тут](http://yaica.prorealnost.com/offer/trening-umeiu-zhenschin?src=amorninja-products)
-
-----
-
-## [Книга «Лёгкий способ бросить дрочить»](/products/lsbd/)
-
-Автор: Николай Воробьёв  
-Твёрдый переплёт  
-200 страниц
-
-[Подробности тут](/products/lsbd/)
-
-
