@@ -1,6 +1,10 @@
 ---
 layout: post
 title: "Как распараллелить поиск своей принцессы, но не изменить ей, когда найду"
+type: cast
+project: amoral
+date: 2015-07-17
+slug: parallel-princess-pursuit
 ---
 
 > При поиске девушки запараллеливаешь нескольких девушек сразу - ту не вызвонишь, та на свиданке морозиться начнет и т. д.
@@ -13,4 +17,3 @@ title: "Как распараллелить поиск своей принцес
 
 > Алексей
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/215194941&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>

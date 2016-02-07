@@ -1,9 +1,12 @@
 ---
 layout: post
 title: "Как себя вести, если у девушки есть парень, а она запала в душу"
+type: cast
+project: amoral
+date: 2015-05-24
+slug: boyfriend
 ---
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/206907612&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 - Парень — явление условное. Девушка довольна? Если да — почему не замужем? Возможно, ищет кого-то лучше. Не удовлетворена. В отношениях бывает нет секса. Закинуть, и парень станет бывшим.
 - Парень — явление относительное. Возможно, ты будешь гораздо лучшим парнем. Внимание, Секс, Дружба, Валидация.

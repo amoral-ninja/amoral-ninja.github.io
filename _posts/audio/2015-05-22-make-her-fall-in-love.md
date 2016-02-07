@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Как влюбить в себя девушку
+type: cast
+project: amoral
+date: 2015-05-22
+slug: make-her-fall-in-love
 ---
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/206732042&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 Что заставляет людей влюбляться? Это очень субъективная штука, но существуют научные исследования на тему.
 
@@ -48,4 +50,3 @@ title: Как влюбить в себя девушку
 6. Принимай увлечения другого
 
 Когда человек чем-то увлекается, он вкладывает туда самого себя. Когда ты принимаешь и разделяешь эмоции, которые этот человек получает от его увлечения, ты смешиваешься с его глубокими чувствами, и это помогает влюбиться.
-

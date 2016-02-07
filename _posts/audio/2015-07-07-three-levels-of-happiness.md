@@ -1,11 +1,14 @@
 ---
 layout: post
 title: Три уровня счастья
+type: cast
+project: amoral
+date: 2015-07-07
+slug: three-levels-of-happiness
 ---
 
 Должен ли ты соблазнять новую женщину каждый месяц, чтобы не стать неудачником?
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/213625684&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 ## Краткий конспект
 
